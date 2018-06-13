@@ -18,11 +18,12 @@
 .blanco{
     color: white;
 }
-.MenuDeUsuario{
-    top: 50px;
-    left: -90px;
-    will-change: transform;
+div#MenuDeUsuario {
+  top: 50px;
+  left: -90px;
+  will-change: transform;
 }
+
 
 
 /* Inicio */
@@ -39,7 +40,7 @@
 /* LOGIN */
 
 .Login {
-  background: url("/images/login.jpg") no-repeat 40% 50%;
+  background: url("assets/images/login.jpg") no-repeat 40% 50%;
   height: 100vh;
   background-size: cover;
   display: flex;
